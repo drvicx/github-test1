@@ -1,0 +1,53 @@
+### Intellij IDEA ###
+**.idea/**
+.idea/
+.idea/artifacts
+.idea/libraries
+.idea/compiler.xml
+.idea/modules.xml
+*.iml
+*.iws
+
+### Maven ###
+log/
+target/
+
+### Java ###
+*.class
+*.jar
+*.war
+*.ear
+
+### Other Files ###
+*.log
+*.rar
+*.zip
+*.tar.gz
+
+### Go ###
+.idea
+build/
+*.exe
+
+# Binaries for programs and plugins
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Test binary, built with `go test -c`
+*.test
+
+# Output of the go coverage tool, specifically when used with LiteIDE
+*.out
+
+# Dependency directories (remove the comment below to include it)
+# vendor/
+
+### EXAMPLES ###
+## .apt_generated
+## .classpath
+## .idea
+## *.iml
+## *.xml
+## logs/user.log/**
