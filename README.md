@@ -13,17 +13,33 @@ For GitHub experiments
 **=CHANGE LOG**<br>
 *новые записи в начале <br>
 
+06: 20220601_1030:
+<pre>
+- Combining Git commits with squash
+  https://www.youtube.com/watch?v=V5KrD7CmO4o
+</pre>
+
+05: 20220531_2000:
+<pre>
+- A Better Git Workflow with Rebase
+  https://www.youtube.com/watch?v=f1wnYdLEpgI
+</pre>
+
+04: 20220530_2000:
+<pre>
+- Git Branches Tutorial
+  https://www.youtube.com/watch?v=e2IbNHi4uCI
+</pre>
+
 03: 20220529_0235:
 <pre>
 - репозиторий очищен для новых экспериментов (нетривиальным способом);
 </pre>
-<br>
 
 02: 20220526_1150:
 <pre>
 - тестовый коммит;
 </pre>
-<br>
 
 01: 20220216_1800:
 <pre>
