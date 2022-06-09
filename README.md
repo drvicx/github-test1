@@ -13,6 +13,15 @@ For GitHub experiments
 **=CHANGE LOG**<br>
 *новые записи в начале <br>
 
+07: 20220609_1240:
+<pre>
+- Rewriting Git History - Amend, Reword, Delete, Reorder, Squash and Split
+  https://www.youtube.com/watch?v=ElRzTuYln0M
+
+- 13 Advanced (but useful) Git Techniques and Shortcuts
+  https://www.youtube.com/watch?v=ecK3EnyGD8o
+</pre>
+
 06: 20220601_1030:
 <pre>
 - Combining Git commits with squash
