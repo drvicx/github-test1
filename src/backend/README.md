@@ -9,9 +9,17 @@ Basic backend logic description
 
 **=CHANGE LOG**<br>
 
+03: 20220614_1700:
+<pre>
+- Added new calc2.py in branch "main";
+- Move committed changes to branch "feature/subtract-feature"; 
+- Restore last commit to new experimental branch "backup" after hard reset operation;
+- Compare commits changes;
+</pre>
+
 02: 20220610_1730:
 <pre>
-- Create new branch feature/data-processing;
+- Create new branch "feature/data-processing";
 - Changes made to README.md (this file);
 - Initial Commit produced;
 </pre>

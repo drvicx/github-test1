@@ -13,6 +13,12 @@ For GitHub experiments
 **=CHANGE LOG**<br>
 *новые записи в начале <br>
 
+08: 20220614_1700:
+<pre>
+- Git Tutorial: Fixing Common Mistakes and Undoing Bad Commits
+  https://www.youtube.com/watch?v=FdZecVxzJbk
+</pre>
+
 07: 20220609_1240:
 <pre>
 - Rewriting Git History - Amend, Reword, Delete, Reorder, Squash and Split
