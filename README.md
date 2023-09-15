@@ -1,12 +1,3 @@
----
-aliases:
-  - getting-started/
-description: Learn how to get started with Grafana Mimir.
-menuTitle: Get started
-title: Get started with Grafana Mimir
-weight: 10
---
-
 # github-test1
 For GitHub experiments
 <hr>
@@ -27,7 +18,7 @@ For GitHub experiments
 <pre>
 - Как создать таблицу в README (идею подсмотрел тут случайно при подготовке к дипломной работе по курсу DevOPS)
   https://github.com/grafana/mimir/blob/main/docs/sources/mimir/get-started/_index.md
-  *реализация интересная - просто описываем таблицу в виде YAML
+  *реализация интересная - просто описываем таблицу в виде YAML (но оказалось что это НЕЛЬЗЯ сделать вручную.. видимо какойто плагин это делает)
    ---
    aliases:
      - getting-started/
