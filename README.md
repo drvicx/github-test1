@@ -19,19 +19,6 @@ For GitHub experiments
   ideName_version<br>
   <br>
 
-**=GITHUB DOCS FEATURES**
-
-*--TABLES*
- ---
- aliases:
-   - getting-started/
- description: Learn how to get started with Grafana Mimir.
- menuTitle: Get started
- title: Get started with Grafana Mimir
- weight: 10
----
-
-
 
 **=CHANGE LOG**<br>
 *новые записи в начале <br>
