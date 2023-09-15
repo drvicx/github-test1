@@ -10,8 +10,37 @@ For GitHub experiments
   ideName_version<br>
   <br>
 
+**=GITHUB DOCS FEATURES**
+
+*--TABLES*
+ ---
+ aliases:
+   - getting-started/
+ description: Learn how to get started with Grafana Mimir.
+ menuTitle: Get started
+ title: Get started with Grafana Mimir
+ weight: 10
+---
+
+
+
 **=CHANGE LOG**<br>
 *новые записи в начале <br>
+
+09: 20230915_1918:
+<pre>
+- Как создать таблицу в README (идею подсмотрел тут случайно при подготовке к дипломной работе по курсу DevOPS)
+  https://github.com/grafana/mimir/blob/main/docs/sources/mimir/get-started/_index.md
+  *реализация интересная - просто описываем таблицу в виде YAML
+   ---
+   aliases:
+     - getting-started/
+   description: Learn how to get started with Grafana Mimir.
+   menuTitle: Get started
+   title: Get started with Grafana Mimir
+   weight: 10
+  ---
+</pre>
 
 08: 20220614_1700:
 <pre>
