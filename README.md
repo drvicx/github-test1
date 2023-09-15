@@ -1,3 +1,12 @@
+---
+aliases:
+  - getting-started/
+description: Learn how to get started with Grafana Mimir.
+menuTitle: Get started
+title: Get started with Grafana Mimir
+weight: 10
+--
+
 # github-test1
 For GitHub experiments
 <hr>
